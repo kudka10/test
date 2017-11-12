@@ -1,1 +1,3 @@
 opravenu soubor
+
+uprava comit
